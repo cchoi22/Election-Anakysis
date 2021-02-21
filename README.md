@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## 1. Overview
-	The purpose of this analysis was to determine the winner of the election as well as break down voter turnout by county. Python was used parse through raw election data and the data was broken down by candidate first then by county.
+The purpose of this analysis was to determine the winner of the election as well as break down voter turnout by county. Python was used parse through raw election data and the data was broken down by candidate first then by county.
 ## 2. Results
 
 ### 1. How many votes were cast in this congressional election? 
