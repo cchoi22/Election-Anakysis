@@ -26,4 +26,4 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## 3. Summary 
-	This script can be used for any election provided that the raw data is formated in a similar way as this case study. County variables can be replaced by other categories such as distric or scaled up to include other state elections. By instantiating the arrays in the beginning, the variables can hold any amount of data. For example more candidates could be added and the code would operate the same way. Additional loops could be added to catigorize different state elections all at the same time. 
+This script can be used for any election provided that the raw data is formated in a similar way as this case study. County variables can be replaced by other categories such as distric or scaled up to include other state elections. By instantiating the arrays in the beginning, the variables can hold any amount of data. For example more candidates could be added and the code would operate the same way. Additional loops could be added to catigorize different state elections all at the same time. 
